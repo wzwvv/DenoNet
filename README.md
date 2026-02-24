@@ -23,14 +23,14 @@ Zhentao He<sup>1,†</sup>, [Ziwei Wang](https://scholar.google.com/citations?us
 - We further provide a systematic noise sensitivity analysis for SSVEP decoding, revealing the dominant impact of spectral domain interference and highlighting the importance of frequency-aware denoising.
 
 <div align="center">
-<img width="540" height="603" alt="image" src="https://github.com/user-attachments/assets/adc396cb-0b0e-4657-a317-a4b33e4ce59f" />
+<img width="540" height="603" alt="image" src="https://github.com/user-attachments/assets/be7a39e6-33c9-45aa-92ac-91a6db3dd5e7" />
 </div>
 
 ## Baselines
 Six EEG decoding models were reproduced and compared with the proposed DenoNet in this paper. DenoNet achieves the **state-of-the-art performance**. Besides, DenoNet improved the decoding performance across traditional and deep learning classifiers under five noise conditions.
 
 <div align="center">
-<img width="1225" height="861" alt="image" src="https://github.com/user-attachments/assets/cd20f1a0-aeb0-48a9-bc23-a25bf51ccdce" />
+<img width="1225" height="863" alt="image" src="https://github.com/user-attachments/assets/6411c1a5-60de-4b07-abb3-ddc27e8e7e47" />
 </div>
 
 
