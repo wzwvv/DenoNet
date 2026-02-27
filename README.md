@@ -23,7 +23,7 @@ Zhentao He<sup>1,†</sup>, [Ziwei Wang](https://scholar.google.com/citations?us
 - We further provide a systematic noise sensitivity analysis for SSVEP decoding, revealing the dominant impact of spectral domain interference and highlighting the importance of frequency-aware denoising.
 
 <div align="center">
-<img width="540" height="603" alt="image" src="https://github.com/user-attachments/assets/be7a39e6-33c9-45aa-92ac-91a6db3dd5e7" />
+<img width="360" height="402" alt="image" src="https://github.com/user-attachments/assets/be7a39e6-33c9-45aa-92ac-91a6db3dd5e7" />
 </div>
 
 ## Baselines
