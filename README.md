@@ -12,7 +12,7 @@ Zhentao He<sup>1,†</sup>, [Ziwei Wang](https://scholar.google.com/citations?us
 
 </div>
 
-> This repository contains the implementation of our paper: [**"DenoNet: A GAN-VAE Hybrid Generative Model for SSVEP Denoising"**. By combining the distribution-matching capability of generative adversarial networks (GANs) with the stable representation learning of variational autoencoders (VAEs), DenoNet learns a discriminative latent space that effectively separates noise from task-related EEG components. Extensive experiments on two public SSVEP datasets demonstrated that DenoNet consistently outperformed six baseline models and improved the decoding performance across traditional and deep learning classifiers under five noise conditions.
+> This repository contains the implementation of our paper: **"DenoNet: A GAN-VAE Hybrid Generative Model for SSVEP Denoising"**. By combining the distribution-matching capability of generative adversarial networks (GANs) with the stable representation learning of variational autoencoders (VAEs), DenoNet learns a discriminative latent space that effectively separates noise from task-related EEG components. Extensive experiments on two public SSVEP datasets demonstrated that DenoNet consistently outperformed six baseline models and improved the decoding performance across traditional and deep learning classifiers under five noise conditions.
 
 ## Overview
 **DenoNet**, a **GAN-VAE hybrid generative model** tailored for SSVEP Denoising:
